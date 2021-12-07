@@ -1,0 +1,33 @@
+body{
+	
+}
+:root{
+	--color-negro:#282d33;
+	--menu-hover:#282d33;
+	--fondo-footer:#f4f4f4;
+	--color-footer:#898989;
+}
+header{
+	background-color: #fff;
+}
+
+
+
+#refi{
+	text-align: center;
+	padding: 10% 0;
+}
+
+#info{
+	background-color: #A7A7A7;
+	color: #403F3F
+}
+
+
+footer{
+	background-color: #F4F4F4;
+	color: #898989;
+	padding: 20px 0;
+	text-align: center;
+	font-size: 13px;
+}
